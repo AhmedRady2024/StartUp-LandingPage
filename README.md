@@ -8,7 +8,9 @@ I’ve built a lightning-fast, fully responsive one-page website that works seam
 
 🔧 Tech stack:
 ✅ HTML5 – for the built Page Structure 
+
 ✅ CSS3 – for make a beautiful and attractive Design 
+
 ✅ Clean , Responsive  and modern design
 
 🎥 A demo video is HERE 
